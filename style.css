@@ -1,0 +1,117 @@
+
+#container {
+    background-color: rgb(31, 113, 124);
+    height: 45px;
+    display: inline-flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-family: 'Urbanist', sans-serif;
+    gap: 10px;
+    width: 100%;
+    padding-right: 10px;
+   
+}
+
+#title {
+    font-family: 'Urbanist', sans-serif;
+    color: black;
+    margin-right: auto;
+    color: white;
+    padding-left: 20px;
+
+}
+
+.button {
+    
+    width: 125px;
+    height: 25px;
+    font-size: 12px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.button h2 {
+    margin: auto;
+}
+
+#about-me {
+    font-family: 'Urbanist', sans-serif;
+    width: 100%;
+ 
+}
+
+#skills {
+    font-family: 'Urbanist', sans-serif;
+    width: 100%;
+}
+
+.button a {
+    text-decoration: none;
+    color: black;
+}
+
+#my-projects img {
+    max-width: 300px;
+    max-height: 250px;
+    
+   
+}
+
+#my-projects {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    
+}
+
+ h2 {
+    font-family: 'Urbanist', sans-serif;
+}
+
+#nate1 {
+    position: relative;
+    text-align: center;
+
+    
+}
+
+#title1 {
+   
+    font-family: 'Urbanist', sans-serif;
+    
+}
+
+#nate2 {
+    position: relative;
+    text-align: center;
+}
+
+#title2 {
+   
+    font-family: 'Urbanist', sans-serif;
+    
+}
+
+#nate3 {
+    position: relative;
+    text-align: center;
+}
+
+#title3 {
+ 
+    font-family: 'Urbanist', sans-serif;
+   
+}
+
+#nate4 {
+    position: relative;
+    text-align: center;
+}
+
+#title4 {
+   
+    font-family: 'Urbanist', sans-serif;
+  
+}
